@@ -1,0 +1,4 @@
+.env
+/config.py
+*.ipynb
+/connect_to_db.py
